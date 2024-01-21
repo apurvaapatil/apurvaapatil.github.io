@@ -94,13 +94,21 @@ a:hover, a:active, .home-link {
     display: flex;
     justify-content: space-evenly;
     align-items: center;
-    padding: 0% 2% 0% 2%;
     height: 700px;
     color: white;
     font-family: 'EB Garamond', serif;
     background-color: white;
 
     z-index: 99;
+}
+
+.section2-div{
+    height: 670px;
+    width: 1239px;
+
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
 }
 
 .services .service-title, .service-btn{
@@ -110,12 +118,12 @@ a:hover, a:active, .home-link {
 
 .services img{
     height: 530px;
-    width: auto;
+    width: 350px;
 }
 
 .service-image img{
     height: 530px;
-    width: auto;
+    width: 680px;
 }
 
 .services{
@@ -177,6 +185,8 @@ a:hover, a:active, .home-link {
 
 .testimonial-name{
     font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 15px;
     padding: 5% 0%;
 }
 
@@ -189,15 +199,23 @@ a:hover, a:active, .home-link {
 }
 
 .gallery{
+    position: absolute;
+    text-align: center;
+    display: inline-block;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+
     position: relative;
     height: 650px;
+    width: 1079px;
 }
 
 .gallery-sec{
     position: absolute;
     text-align: center;
     display: inline-block;
-    left: 75%;
+    left: 80%;
     top: 50%;
     transform: translate(-50%, -50%);
 }
@@ -241,11 +259,15 @@ a:hover, a:active, .home-link {
 
 .section5{
     height: 320px;
+    width: 100%;
     font-family: 'Inter', sans-serif;
-    font-size: 13px;
+    font-size: 15px;
     font-weight: 500;
-    padding: 8% 6.5% 0% 6.5%;
+    padding: 3% 0% 0% 0%;
     background-color: white;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
 }
 
 .footer{
@@ -254,6 +276,7 @@ a:hover, a:active, .home-link {
     align-items: center;
     position: relative;
     background-color: #AF9453;
+    width: 72em;
 }
 
 .footer-links{
@@ -264,13 +287,13 @@ a:hover, a:active, .home-link {
 }
 
 .col1, .col2, .col3{
-    line-height: 18px;
+    line-height: 20px;
     text-align: left;
     height: 80px;
 }
 
 .col2{
-    width: 170px;
+    width: 190px;
     word-wrap: break-word;
 }
 
