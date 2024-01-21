@@ -240,13 +240,11 @@ a:hover, a:active, .home-link {
 }
 
 .section5{
-    height: 370px;
+    height: 350px;
     font-family: 'Inter', sans-serif;
     font-size: 13px;
     font-weight: 500;
-    /* margin-bottom: 10px; */
-    /* padding: 100px 80px 0px 80px; */
-    padding: 10% 6.5% 5% 6.5%;
+    padding: 10% 6.5% 0% 6.5%;
     background-color: white;
 }
 
@@ -291,7 +289,7 @@ a:hover, a:active, .home-link {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 200px;
+    height: 180px;
 }
 
 .button{
