@@ -28,20 +28,31 @@ body{
     padding: 1.5% 0%;
     overflow: auto;
     top: 0%;
-    font-size: 15px;
+    font-size: 14.5px;
+    font-weight: 500;
 
     z-index: 100;
 }
 
+.nav-div{
+    width: 1239px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    margin: auto 
+    
+}
+
 .nav-title{
-    margin-left: 10%;
+    margin-left: 130px;
 }
 
 .navbar-list{
     list-style: none;
     display: inline-flex;
     justify-content: right;
-    margin-right: 3%;
+    margin-right: 40px;
 }
 
 .nav-menu{
@@ -82,7 +93,7 @@ a:hover, a:active, .home-link {
     width: 10em;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 23%;
+    margin-top: 280px;
     text-align: center;
     line-height: 90px;
     letter-spacing: 15px;
@@ -166,28 +177,31 @@ a:hover, a:active, .home-link {
     text-align: center;
     display: inline-block;
     height: 500px;
-    padding: 6% 30%;
     background-color: white;
+    margin-bottom: 60px;
 }
 
 .testimonial img{
-    height: 35px;
+    height: 39px;
     width: auto;
+    margin-bottom: 40px;
+    margin-top: 80px;
 }
 
 .testimonial-text{
     color: black;
-    font-size: 35px;
+    font-size: 37px;
     font-family: 'EB Garamond', serif;
     letter-spacing: 2px;
-    padding: 8% 0%;
+    width: 560px;
+    margin: auto;
 }
 
 .testimonial-name{
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
     font-size: 15px;
-    padding: 4% 0%;
+    padding: 60px 0px 0px 0px;
 }
 
 .section4{
@@ -196,26 +210,30 @@ a:hover, a:active, .home-link {
     background-attachment: fixed;
     background-size: auto;
     height: 650px;
+    width: 1239px;
+    margin: auto;
 }
 
 .gallery{
     position: absolute;
     text-align: center;
     display: inline-block;
-    left: 50%;
-    top: 50%;
-    transform: translate(-50%, -50%);
+    /* left: 50%;
+    top: 200px;
+    transform: translate(-50%, -50%); */
 
     position: relative;
     height: 650px;
     width: 1079px;
+
+    margin-left: 90px;
 }
 
 .gallery-sec{
     position: absolute;
     text-align: center;
     display: inline-block;
-    left: 80%;
+    left: 53em;
     top: 50%;
     transform: translate(-50%, -50%);
 }
@@ -265,6 +283,7 @@ a:hover, a:active, .home-link {
     font-weight: 500;
     padding: 3% 0% 0% 0%;
     background-color: white;
+    color: white;
     display: flex;
     justify-content: space-evenly;
     align-items: center;
