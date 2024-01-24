@@ -128,13 +128,13 @@ a:hover, a:active, .home-link {
 }
 
 .services img{
-    height: 530px;
-    width: 350px;
+    /* height: 530px;
+    width: 350px; */
 }
 
 .service-image img{
-    height: 530px;
-    width: 680px;
+    /* height: 530px;
+    width: 680px; */
 }
 
 .services{
@@ -176,16 +176,21 @@ a:hover, a:active, .home-link {
 .section3{
     text-align: center;
     display: inline-block;
-    height: 520px;
+    height: 580px;
     background-color: white;
-    margin-bottom: 60px;
+}
+
+.testimonial{
+    text-align: center;
+    display: inline-block;
+    height: 520px;
 }
 
 .testimonial img{
     height: 39px;
-    width: auto;
+    width: fit-content;
     margin-bottom: 40px;
-    margin-top: 70px;
+    margin-top: 100px;
 }
 
 .testimonial-text{
@@ -202,30 +207,38 @@ a:hover, a:active, .home-link {
     font-weight: 500;
     font-size: 15px;
     padding: 60px 0px 0px 0px;
+    width: fit-content;
+    margin: auto;
 }
 
 .section4{
     color: white;
+    height: 700px;
+    width: 1239px;
+    margin: 0px auto;
+}
+
+.gallery{
+    height: 700px;
+    width: 1239px;
+
     background: url('./assets/image2.png') no-repeat center center;
     background-attachment: fixed;
     background-size: 1110px ;
-    height: 650px;
-    width: 1239px;
-    margin: 0px auto;
+    background-position: top;
+    position: absolute;
 }
 
 .gallery-sec{
     position: relative;
     text-align: center;
     display: inline-block;
-    left: 60em;
+    left: 56em;
     top: 50%;
     transform: translate(-50%, -50%);
 }
 
 .gallery-sec img{
-    width: 300px;
-    height: 500px;
     object-fit: cover;
 }
 
@@ -235,7 +248,7 @@ a:hover, a:active, .home-link {
     left: 50%;
     transform: translate(-50%, -50%);
     font-size: 30px;
-    letter-spacing: 10px;
+    /* letter-spacing: 50px; */
 }
 
 .gallery-text{
@@ -243,21 +256,21 @@ a:hover, a:active, .home-link {
     top: 53%;
     left: 50%;
     transform: translate(-50%, -50%);
-    font-size: 20px;
+    font-size: 22px;
     letter-spacing: 5px;
-    line-height: 40px;
+    line-height: 45px;
     width: 200px;
     font-family: 'EB Garamond', serif;
 }
 
 .gallery-btn{
     position: absolute;
-    top: 75%;
+    top: 20%;
     left: 50%;
     transform: translate(-50%, -50%);
     font-size: 10px;
     border: 1px solid white;
-    padding: 3% 15%;
+    padding: 2% 15%;
 }
 
 .section5{
