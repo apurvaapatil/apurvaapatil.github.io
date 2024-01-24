@@ -45,7 +45,7 @@ body{
 }
 
 .nav-title{
-    margin-left: 130px;
+    margin-left: 133px;
 }
 
 .navbar-list{
@@ -176,7 +176,7 @@ a:hover, a:active, .home-link {
 .section3{
     text-align: center;
     display: inline-block;
-    height: 500px;
+    height: 520px;
     background-color: white;
     margin-bottom: 60px;
 }
@@ -185,7 +185,7 @@ a:hover, a:active, .home-link {
     height: 39px;
     width: auto;
     margin-bottom: 40px;
-    margin-top: 80px;
+    margin-top: 70px;
 }
 
 .testimonial-text{
@@ -206,34 +206,19 @@ a:hover, a:active, .home-link {
 
 .section4{
     color: white;
-    background: url('./assets/image2.png') no-repeat center fixed;
+    background: url('./assets/image2.png') no-repeat center center;
     background-attachment: fixed;
-    background-size: auto;
+    background-size: 1110px ;
     height: 650px;
     width: 1239px;
-    margin: auto;
-}
-
-.gallery{
-    position: absolute;
-    text-align: center;
-    display: inline-block;
-    /* left: 50%;
-    top: 200px;
-    transform: translate(-50%, -50%); */
-
-    position: relative;
-    height: 650px;
-    width: 1079px;
-
-    margin-left: 90px;
+    margin: 0px auto;
 }
 
 .gallery-sec{
-    position: absolute;
+    position: relative;
     text-align: center;
     display: inline-block;
-    left: 53em;
+    left: 60em;
     top: 50%;
     transform: translate(-50%, -50%);
 }
@@ -295,7 +280,7 @@ a:hover, a:active, .home-link {
     align-items: center;
     position: relative;
     background-color: #AF9453;
-    width: 72em;
+    width: 1110px;
 }
 
 .footer-links{
