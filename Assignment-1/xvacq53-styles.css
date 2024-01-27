@@ -212,6 +212,8 @@ a:hover, a:active, .home-link {
     height: 650px;
     width: 1239px;
     margin: 0px auto;
+
+    overflow-x: hidden;
 }
 
 .gallery{
