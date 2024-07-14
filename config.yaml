@@ -161,7 +161,7 @@ params:
       I thrive on solving complex problems and ensuring application efficiency and reliability. My experience includes collaborating with cross-functional teams for smooth development. Passionate about learning and innovative technologies, I’m driven to contribute to impactful projects.
     skills:
       enable: true
-      title: "Here are my Technical Skills:"
+      title: "My technical skills:"
       items:
         - "**Languages & Frameworks:** C/C++, Java, Python, JavaScript, HTML, CSS, Angular, Spring Boot, SwiftUI \n\n"
         - "**Web API and Databases:** SQL, MongoDb, JSON, SOAP, Flask, REST API"
