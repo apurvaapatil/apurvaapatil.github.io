@@ -1,1 +1,0 @@
-# My Portfolio | [apurvaapatil.github.io](https://apurvaapatil.github.io/)
