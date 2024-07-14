@@ -156,7 +156,7 @@ params:
     title: "About Me"
     image: "/images/self1.jpg"
     content: |-
-      I’m currently pursuing an MS in Computer Science at USC. Before grad school, I worked as a software developer for 2 years, developing and maintaining large-scale microservice applications using Spring Boot and REST APIs to deliver critical alerts to millions of customers.
+      I’m currently pursuing an MS in Computer Science at USC. Before graduate studies, I worked as a software developer for 2 years, developing and maintaining large-scale microservice applications using Spring Boot and REST APIs to deliver critical alerts to millions of customers.
 
       I thrive on solving complex problems and ensuring application efficiency and reliability. My experience includes collaborating with cross-functional teams for smooth development. Passionate about learning and innovative technologies, I’m driven to contribute to impactful projects.
     skills:

@@ -56,7 +56,7 @@ params:
   # title: "Hugo Profile"
   # description: Text about my cool site
   # staticPath: ""  # The path to serve the static files from
-  favicon: "/main-icon2.png"
+  favicon: /images/main-icon2.png
 
   # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
   # serving both, only the css, or only the js files through the CDN. Any other value will make so that CDN is not used.
@@ -156,7 +156,7 @@ params:
     title: "About Me"
     image: "/images/self1.jpg"
     content: |-
-      I’m currently pursuing an MS in Computer Science at USC. Before grad school, I worked as a software developer for 2 years, developing and maintaining large-scale microservice applications using Spring Boot and REST APIs to deliver critical alerts to millions of customers.
+      I’m currently pursuing an MS in Computer Science at USC. Before graduate studies, I worked as a software developer for 2 years, developing and maintaining large-scale microservice applications using Spring Boot and REST APIs to deliver critical alerts to millions of customers.
 
       I thrive on solving complex problems and ensuring application efficiency and reliability. My experience includes collaborating with cross-functional teams for smooth development. Passionate about learning and innovative technologies, I’m driven to contribute to impactful projects.
     skills:
