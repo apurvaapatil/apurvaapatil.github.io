@@ -137,7 +137,7 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "https://drive.google.com/file/d/1zMX1C_9VaHL1nG8gtksEcWjeOV5zf_Up/view?usp=drive_link"
+      url: "https://drive.google.com/file/d/1vaigmXTLb_XoQIe5f4LGZdmFs_rxo5Zi/view?usp=sharing"
       download: false
       newPage: true
     socialLinks:
@@ -158,7 +158,7 @@ params:
     content: |-
       I’m currently pursuing an MS in Computer Science at USC. Before graduate studies, I worked as a software developer for 2 years, developing and maintaining large-scale microservice applications using Spring Boot and REST APIs to deliver critical alerts to millions of customers.
 
-      I thrive on solving complex problems and ensuring application efficiency and reliability. My experience includes collaborating with cross-functional teams for smooth development. Passionate about learning and innovative technologies, I’m driven to contribute to impactful projects.
+      I thrive on solving complex problems and ensuring application efficiency and reliability. My experience includes collaborating with cross-functional teams for smooth development. Passionate about learning and exploring innovative technologies, I’m driven to contribute to impactful projects.
     skills:
       enable: true
       title: "My technical skills:"
