@@ -192,18 +192,17 @@ params:
           - Ensured system reliability by maintaining and supporting existing system, resolving technical issues promptly, resulting in a system uptime of 99%.
           - Technologies used - Java, Microservices, Spring/Spring Boot, Spring Batch, Jenkins, XML, UNIX, Github, Swagger, HP ALM
 
-      # - job: "UI/UX Designer"
-      #   company: "Netflix"
-      #   companyUrl: "https://example.com"
-      #   date: "June 2017 - Nov 2019"
-      #   featuredLink:
-      #     enable: true
-      #     url: "https://example.com"
-      #   content: |
-      #     I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
-
-      #     - Lead backend developer for a product.
-      #     - Created a frontend design for a product.
+      - job: "Course Grader"
+        company: "USC Viterbi School of Engineering"
+        companyUrl: "https://viterbischool.usc.edu/"
+        date: "August 2024 - Present"
+        info:
+          enable: true
+          content: "Location: Los Angeles, CA"
+        content: |
+          I am a Course Grader for the course - CSCI 585 Database Systems
+          - Evaluated student assignments on database concepts and SQL queries after each lecture
+          - Provided detailed, constructive feedback to improve students\' understanding of database systems
 
       # - job: "Product Designer"
       #   company: "Google"
