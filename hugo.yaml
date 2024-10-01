@@ -192,17 +192,17 @@ params:
           - Ensured system reliability by maintaining and supporting existing system, resolving technical issues promptly, resulting in a system uptime of 99%.
           - Technologies used - Java, Microservices, Spring/Spring Boot, Spring Batch, Jenkins, XML, UNIX, Github, Swagger, HP ALM
 
-      - job: "Course Grader"
-        company: "USC Viterbi School of Engineering"
-        companyUrl: "https://viterbischool.usc.edu/"
-        date: "August 2024 - Present"
-        info:
-          enable: true
-          content: "Location: Los Angeles, CA"
-        content: |
-          I am a Course Grader for the course - CSCI 585 Database Systems
-          - Evaluated student assignments on database concepts and SQL queries after each lecture
-          - Provided detailed, constructive feedback to improve students\' understanding of database systems
+      # - job: "Course Grader"
+      #   company: "USC Viterbi School of Engineering"
+      #   companyUrl: "https://viterbischool.usc.edu/"
+      #   date: "August 2024 - Present"
+      #   info:
+      #     enable: true
+      #     content: "Location: Los Angeles, CA"
+      #   content: |
+      #     I am a Course Grader for the course - CSCI 585 Database Systems
+      #     - Evaluated student assignments on database concepts and SQL queries after each lecture
+      #     - Provided detailed, constructive feedback to improve students\' understanding of database systems
       
       # - job: "Product Designer"
       #   company: "Google"
