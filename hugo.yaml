@@ -137,7 +137,7 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "https://drive.google.com/file/d/1tHPXwc3D1FnM0DnPntGTALXpP6bFYvRH/view?usp=sharing"
+      url: "https://drive.google.com/file/d/1BC3ORJtcoSLRzWXBGZ6G5Y5z9cm_nNHR/view?usp=sharing"
       download: false
       newPage: true
     socialLinks:
@@ -221,7 +221,7 @@ params:
           name: "University Of Southern California, Los Angeles, CA"
           url: "https://www.usc.edu/"
         date: "2023 - 2025 (Expected)"
-        GPA: "3.67 out of 4.0"
+        GPA: "3.73 out of 4.0"
         content: |-
           Coursework
             - Analysis of Algorithms, Database Systems, Web Technologies, Human-Computer Interaction, Machine Learning for Data Science, Information Retrieval, Web Search Engines
