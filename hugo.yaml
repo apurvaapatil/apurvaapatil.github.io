@@ -187,7 +187,7 @@ params:
         content: |
           I worked as a software developer for 2 years for a Financial Institution Client (CIBC).
           - Led collaborative efforts within an Agile team of professionals by maintaining a real-time communication application aimed to facilitate Email, SMS, Message Center, and Push Notification alerts to approximately 300,000 customers.
-          - Engineered a microservice application for sending critical bank account alerts using Spring MVC architecture, reducing manual effort by 70% while ensuring scalability for future growth.
+          - Engineered a microservice application for sending critical bank account alerts using Spring MVC architecture, reducing manual effort by 80% while ensuring scalability for future growth.
           - Spearheaded cross-functional collaboration to swiftly address and resolve defects throughout development, testing, and production phases.
           - Ensured system reliability by maintaining and supporting existing system, resolving technical issues promptly, resulting in a system uptime of 99%.
           - Technologies used - Java, Microservices, Spring/Spring Boot, Spring Batch, Jenkins, XML, UNIX, Github, Swagger, HP ALM
