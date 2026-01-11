@@ -129,7 +129,7 @@ params:
     intro: "Hi, my name is"
     title: "Apurva Patil"
     # subtitle: "I build things for the web"
-    content: "I am currently pursuing my Master's in Computer Science at the University of Southern California. I am a passionate software developer dedicated to creating impactful and scalable software solutions. I am actively looking for software engineering full-time jobs starting 2025."
+    content: "I am a Software Engineer at Audible. I graduated from the University of Southern California with a Master's in Computer Science. I am a passionate software developer dedicated to creating impactful and scalable software solutions."
     image: /images/me1.jpg
     bottomImage:
       enable: true
